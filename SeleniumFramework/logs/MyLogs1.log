@@ -1,0 +1,13 @@
+[INFO ] 2021-10-15 16:19:48.485 [main] log4jdemo - This is an information
+[ERROR] 2021-10-15 16:19:48.487 [main] log4jdemo - This is an error message
+[FATAL] 2021-10-15 16:19:48.488 [main] log4jdemo - This is a fatal message
+[WARN ] 2021-10-15 16:19:48.488 [main] log4jdemo - This is a warning
+[INFO ] 2021-10-15 16:20:59.472 [main] log4jdemo - This is an information
+[ERROR] 2021-10-15 16:20:59.473 [main] log4jdemo - This is an error message
+[FATAL] 2021-10-15 16:20:59.473 [main] log4jdemo - This is a fatal message
+[WARN ] 2021-10-15 16:20:59.473 [main] log4jdemo - This is a warning
+[TRACE] 2021-10-15 16:25:44.767 [main] log4jdemo - This is a trace message
+[INFO ] 2021-10-15 16:25:44.769 [main] log4jdemo - This is an information
+[ERROR] 2021-10-15 16:25:44.770 [main] log4jdemo - This is an error message
+[FATAL] 2021-10-15 16:25:44.770 [main] log4jdemo - This is a fatal message
+[WARN ] 2021-10-15 16:25:44.770 [main] log4jdemo - This is a warning

@@ -1,0 +1,5 @@
+[TRACE] 2021-10-15 16:30:33.127 [main] log4jdemo - This is a trace message
+[INFO ] 2021-10-15 16:30:33.129 [main] log4jdemo - This is an information
+[ERROR] 2021-10-15 16:30:33.129 [main] log4jdemo - This is an error message
+[FATAL] 2021-10-15 16:30:33.129 [main] log4jdemo - This is a fatal message
+[WARN ] 2021-10-15 16:30:33.129 [main] log4jdemo - This is a warning
